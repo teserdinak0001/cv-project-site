@@ -1,5 +1,8 @@
 README
 
+0. Extract "data" compressed zip folder to main project directory
+	a. main project directory is the top level that contains pipeline.py
+
 1. Requirements to run this pipeline:
 	a. Python 3.11.9
 	b. Dependencies in requirements.txt
