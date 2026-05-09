@@ -1,6 +1,6 @@
 README
 
-0. Extract "data" compressed zip folder to main project directory
+0. Extract the "input" compressed zip folder to the main project directory
 	a. main project directory is the top level that contains pipeline.py
 
 1. Requirements to run this pipeline:
