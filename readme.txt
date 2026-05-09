@@ -25,6 +25,8 @@ the data extraction task can be skipped and the already extracted data may be us
 then learning.py.
 	a. python segmentation.py
 	b. python learning.py
+	NOTE: Running the extraction.py or pipeline.py files will clear the extracted folder and running the two
+	files above will no longer be an option and the entire pipeline will need to be ran.
 
 4. After the code hasn't finished executing final results can be found in:
 	a. cluster_eval_merged.csv
