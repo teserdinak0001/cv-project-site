@@ -1,6 +1,7 @@
 README
 
-0. Download the project data from <> and save into the main project directory.
+0. Download the project data from https://drive.google.com/drive/folders/1dnjhkzvz21VeXAVkrAbMdSOGqXfC8lUk?usp=sharing
+and save into the main project directory.
 	a. main project directory is the top level that contains pipeline.py
 
 1. Requirements to run this pipeline:
